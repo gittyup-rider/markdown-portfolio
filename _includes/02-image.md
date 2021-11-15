@@ -1,1 +1,1 @@
-![here is an image](https://apod.nasa.gov/apod/image/2111/EtnaLightPillar_Tine_5100.jpg)
+![Etna light](https://apod.nasa.gov/apod/image/2111/EtnaLightPillar_Tine_5100.jpg)
