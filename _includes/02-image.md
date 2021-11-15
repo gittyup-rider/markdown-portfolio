@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Etna light](https://apod.nasa.gov/apod/image/2111/EtnaLightPillar_Tine_5100.jpg)
